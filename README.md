@@ -14,3 +14,6 @@ Using Visual Studio Code and docs-markdown extension because:
 I wonder if I need to do Alt-M and select the list before typing.  Let's see
 1. I'm trying this again 
 It didn't seem to work :(
+
+Ok - Interestingly, the list thing did work it just doesn't render in the editor (Duh!)
+
