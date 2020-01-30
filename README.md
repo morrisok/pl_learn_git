@@ -17,3 +17,4 @@ It didn't seem to work :(
 
 Ok - Interestingly, the list thing did work it just doesn't render in the editor (Duh!)
 
+**Great!** Just added a preview extension to VS Code and n*ow I can see what I'm doing.*
